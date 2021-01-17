@@ -27,3 +27,14 @@
     margin: 10px;
     color: #fff;
 }
+
+@media screen and (max-width: 660px){
+    .card{
+        width: 550px;
+         max-width: 75vw;
+         height: 50vh;
+    }
+    .tinderCards__cardContainer{
+        margin-top: 10vh;
+    }
+}
