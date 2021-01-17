@@ -37,6 +37,8 @@
     color: #924686 !important;
 }
 
-@media screen and (min-width:425px){
-    
+@media screen and (max-width:425px){
+    .swipeButtons_flash{
+        display: none !important;
+    }
 }
