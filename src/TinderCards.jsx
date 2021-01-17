@@ -22,24 +22,16 @@ function TinderCards() {
         url:"https://media.gettyimages.com/photos/de-villiers-of-the-tshwane-spartans-during-the-tshwane-spartans-media-picture-id1066686122?s=2048x2048 "
     },
     {
-        name:" ",
-        url:" "
+        name:"Captain-rogers ",
+        url:"https://wallpapercave.com/wp/wp6914659.jpg"
     },
     {
-        name:" ",
-        url:" "
+        name:" Howkaye",
+        url:" https://wallpapercave.com/wp/wp1891373.jpg"
     },
-    {
-        name:" ",
-        url:" "
-    },
-    {
-        name:" ",
-        url:" "
-    },
-    {
-        name:" ",
-        url:" "
+     {
+        name:"Tony-stark ",
+        url:"https://wallpapercave.com/wp/wp7494287.jpg"
     },
 ]);
 
