@@ -1,0 +1,18 @@
+.card{
+    position: relative;
+    background-color: #fff;
+     width: 650px;
+     max-width: 75vw;
+     height: 60vh;
+     background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0px 18px 53px 0px rgba(0, 0, 0, 0.3);
+}
+
+.tinderCards__cardContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}
