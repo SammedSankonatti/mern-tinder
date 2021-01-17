@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mern-tinder/static/css/main.155036d1.chunk.css",
+    "main.css": "/mern-tinder/static/css/main.d4a31234.chunk.css",
     "main.js": "/mern-tinder/static/js/main.30b26228.chunk.js",
     "main.js.map": "/mern-tinder/static/js/main.30b26228.chunk.js.map",
     "runtime-main.js": "/mern-tinder/static/js/runtime-main.16922cbc.js",
@@ -8,13 +8,13 @@
     "static/js/2.5ddcc6b3.chunk.js": "/mern-tinder/static/js/2.5ddcc6b3.chunk.js",
     "static/js/2.5ddcc6b3.chunk.js.map": "/mern-tinder/static/js/2.5ddcc6b3.chunk.js.map",
     "index.html": "/mern-tinder/index.html",
-    "static/css/main.155036d1.chunk.css.map": "/mern-tinder/static/css/main.155036d1.chunk.css.map",
+    "static/css/main.d4a31234.chunk.css.map": "/mern-tinder/static/css/main.d4a31234.chunk.css.map",
     "static/js/2.5ddcc6b3.chunk.js.LICENSE.txt": "/mern-tinder/static/js/2.5ddcc6b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.16922cbc.js",
     "static/js/2.5ddcc6b3.chunk.js",
-    "static/css/main.155036d1.chunk.css",
+    "static/css/main.d4a31234.chunk.css",
     "static/js/main.30b26228.chunk.js"
   ]
 }
